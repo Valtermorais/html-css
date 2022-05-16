@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: brown;
+}
+h1 {
+    font-family: "Great vibes";
+    font-size: 4em;
+    color: blue;
+    background-color: rgba(150, 150, 248, 0.521);
+
+}
+p {
+    font-family: "Ephesis";
+    font-size: 2em;
+    color: aliceblue;
+    background-color: gray;
+}
